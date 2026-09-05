@@ -29,7 +29,7 @@ This repository contains my problem sets, lecture code, and practice exercises f
 
 ### Scratch Projects (`.sb3`)
 1. Open [Scratch](https://scratch.mit.edu/).
-2. Click File > Load from your computer and select `Pearl Diver.sb3`.
+2. Click **File > Load from your computer** and select `Pearl Diver.sb3`.
 
 ### C Programs (`.c`)
 To compile and run any C program using the CS50 library, execute the following in your terminal:
